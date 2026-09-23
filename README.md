@@ -79,21 +79,17 @@ sales-customer-performance-analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Rahul-mambrol-satheesan/sales-customer-performance-analytics.git>
 cd sales-customer-performance-analytics
 ```
 
 ### 2. Install Python dependencies
 
-```bash
 pip install -r requirements.txt
-```
 
 ### 3. Run the ETL and data-quality pipeline
 
-```bash
 python python/etl_and_data_quality.py
-```
 
 This creates:
 
@@ -108,9 +104,7 @@ This creates:
 
 Create the database and tables using:
 
-```text
 sql/schema.sql
-```
 
 Then load:
 
@@ -191,17 +185,10 @@ See:
 
 `documentation/data_dictionary.md`
 
-## Interview Preparation
-
-See:
-
-`documentation/interview_questions.md`
-
 ## Data Source
 
 The data is synthetic and generated specifically for this portfolio project.
 
-See:
 
 `documentation/data_source.md`
 
@@ -220,11 +207,6 @@ This project demonstrates the ability to:
 - prepare data for Power BI
 - communicate analytical results to stakeholders
 
-## Resume Project Entry
 
-**Sales & Customer Performance Analytics | Python, SQL, Power BI**
 
-- Built an end-to-end sales analytics pipeline using Python and SQL to clean, validate and transform 18K+ transaction records for business reporting.
-- Developed analytical SQL using joins, CTEs, aggregations and window functions to calculate revenue, profitability, customer rankings and month-over-month performance.
-- Implemented data-quality checks for duplicate transactions, missing customer IDs, invalid quantities and discount values before reporting.
-- Developed Power BI dashboard specifications covering executive KPIs, product performance, customer segmentation and regional analysis.
+
