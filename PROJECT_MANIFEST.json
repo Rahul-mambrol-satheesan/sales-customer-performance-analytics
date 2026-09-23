@@ -1,0 +1,32 @@
+{
+  "project": "Sales & Customer Performance Analytics",
+  "dataset": "Synthetic, self-contained",
+  "raw_orders": 18012,
+  "clean_orders": 17969,
+  "files": [
+    ".gitignore",
+    "README.md",
+    "data/processed/customers_clean.csv",
+    "data/processed/orders_clean.csv",
+    "data/processed/products_clean.csv",
+    "data/raw/customers.csv",
+    "data/raw/orders.csv",
+    "data/raw/products.csv",
+    "documentation/business_questions.md",
+    "documentation/data_dictionary.md",
+    "documentation/data_source.md",
+    "documentation/interview_questions.md",
+    "powerbi/dashboard_specification.md",
+    "python/etl_and_data_quality.py",
+    "python/exploratory_analysis.py",
+    "reports/customer_metrics.csv",
+    "reports/data_quality_report.csv",
+    "reports/order_metrics.csv",
+    "requirements.txt",
+    "screenshots/README.md",
+    "sql/business_analysis_questions.sql",
+    "sql/data_quality_validation.sql",
+    "sql/schema.sql",
+    "sql/views.sql"
+  ]
+}

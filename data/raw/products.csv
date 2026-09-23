@@ -1,0 +1,89 @@
+product_id,product_name,category,unit_price,unit_cost,product_status
+P0001,Laptop 1,Electronics,171.14,111.14,Active
+P0002,Laptop 2,Electronics,1224.79,653.57,Discontinued
+P0003,Laptop 3,Electronics,377.97,278.37,Active
+P0004,Laptop 4,Electronics,778.99,467.53,Active
+P0005,Monitor 1,Electronics,916.2,614.55,Active
+P0006,Monitor 2,Electronics,877.9,519.06,Active
+P0007,Monitor 3,Electronics,787.65,605.75,Active
+P0008,Monitor 4,Electronics,967.68,655.18,Active
+P0009,Headphones 1,Electronics,285.48,194.76,Active
+P0010,Headphones 2,Electronics,366.28,214.62,Discontinued
+P0011,Headphones 3,Electronics,620.88,400.39,Active
+P0012,Headphones 4,Electronics,436.24,262.26,Active
+P0013,Keyboard 1,Electronics,310.93,237.58,Active
+P0014,Keyboard 2,Electronics,1303.2,845.71,Active
+P0015,Keyboard 3,Electronics,959.82,468.59,Active
+P0016,Keyboard 4,Electronics,377.26,271.65,Discontinued
+P0017,Mouse 1,Electronics,1003.97,509.92,Active
+P0018,Mouse 2,Electronics,159.0,89.15,Active
+P0019,Mouse 3,Electronics,530.25,286.78,Active
+P0020,Mouse 4,Electronics,797.9,611.78,Discontinued
+P0021,Webcam 1,Electronics,747.29,497.84,Discontinued
+P0022,Webcam 2,Electronics,910.71,645.95,Active
+P0023,Webcam 3,Electronics,485.17,369.65,Active
+P0024,Webcam 4,Electronics,774.35,533.89,Discontinued
+P0025,Coffee Maker 1,Home,27.18,15.99,Active
+P0026,Coffee Maker 2,Home,141.49,75.72,Discontinued
+P0027,Coffee Maker 3,Home,319.74,170.73,Active
+P0028,Coffee Maker 4,Home,406.01,262.53,Discontinued
+P0029,Desk Lamp 1,Home,306.49,185.87,Active
+P0030,Desk Lamp 2,Home,490.45,279.56,Active
+P0031,Desk Lamp 3,Home,350.4,234.4,Discontinued
+P0032,Desk Lamp 4,Home,175.67,102.46,Discontinued
+P0033,Vacuum 1,Home,454.27,306.51,Active
+P0034,Vacuum 2,Home,186.26,114.38,Active
+P0035,Vacuum 3,Home,137.3,99.17,Active
+P0036,Vacuum 4,Home,250.91,146.3,Active
+P0037,Air Purifier 1,Home,147.84,90.7,Active
+P0038,Air Purifier 2,Home,323.52,167.43,Active
+P0039,Air Purifier 3,Home,393.4,200.99,Active
+P0040,Air Purifier 4,Home,255.42,198.92,Active
+P0041,Cookware 1,Home,93.16,51.63,Active
+P0042,Cookware 2,Home,68.63,40.29,Active
+P0043,Cookware 3,Home,255.64,133.07,Active
+P0044,Cookware 4,Home,236.62,158.99,Active
+P0045,Desk 1,Office,149.31,90.13,Active
+P0046,Desk 2,Office,527.57,327.49,Active
+P0047,Desk 3,Office,601.35,432.6,Active
+P0048,Desk 4,Office,134.14,74.44,Discontinued
+P0049,Chair 1,Office,63.33,45.6,Active
+P0050,Chair 2,Office,668.03,357.21,Active
+P0051,Chair 3,Office,320.03,184.4,Active
+P0052,Chair 4,Office,120.9,83.97,Active
+P0053,Notebook 1,Office,316.62,227.92,Active
+P0054,Notebook 2,Office,289.95,144.05,Discontinued
+P0055,Notebook 3,Office,163.36,119.0,Active
+P0056,Notebook 4,Office,239.61,186.5,Active
+P0057,Printer 1,Office,363.62,248.87,Active
+P0058,Printer 2,Office,524.63,271.05,Discontinued
+P0059,Printer 3,Office,534.37,274.6,Discontinued
+P0060,Printer 4,Office,227.84,109.97,Active
+P0061,Paper 1,Office,549.96,305.02,Discontinued
+P0062,Paper 2,Office,692.95,345.04,Active
+P0063,Paper 3,Office,117.97,84.53,Active
+P0064,Paper 4,Office,131.5,68.44,Active
+P0065,Stapler 1,Office,179.07,95.98,Active
+P0066,Stapler 2,Office,718.11,379.24,Active
+P0067,Stapler 3,Office,435.6,275.21,Active
+P0068,Stapler 4,Office,236.64,118.08,Discontinued
+P0069,Backpack 1,Accessories,30.77,18.55,Active
+P0070,Backpack 2,Accessories,123.58,91.7,Active
+P0071,Backpack 3,Accessories,111.79,70.09,Active
+P0072,Backpack 4,Accessories,12.41,8.4,Active
+P0073,USB Cable 1,Accessories,162.4,118.0,Active
+P0074,USB Cable 2,Accessories,18.14,13.85,Active
+P0075,USB Cable 3,Accessories,44.45,28.94,Active
+P0076,USB Cable 4,Accessories,145.15,99.04,Discontinued
+P0077,Phone Case 1,Accessories,70.81,37.35,Discontinued
+P0078,Phone Case 2,Accessories,210.4,127.02,Discontinued
+P0079,Phone Case 3,Accessories,95.49,61.6,Active
+P0080,Phone Case 4,Accessories,6.16,3.48,Active
+P0081,Power Bank 1,Accessories,51.36,37.84,Active
+P0082,Power Bank 2,Accessories,167.02,108.76,Active
+P0083,Power Bank 3,Accessories,64.02,35.53,Active
+P0084,Power Bank 4,Accessories,185.31,129.17,Discontinued
+P0085,Adapter 1,Accessories,128.94,84.92,Active
+P0086,Adapter 2,Accessories,172.17,99.91,Discontinued
+P0087,Adapter 3,Accessories,50.59,33.42,Active
+P0088,Adapter 4,Accessories,89.32,58.01,Active

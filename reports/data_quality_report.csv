@@ -1,0 +1,7 @@
+check_name,total_records,failed_records,pass_rate,rule
+Duplicate orders,18012,12,99.93,order_id must be unique
+Missing customer IDs,18012,18,99.9,customer_id is required
+Invalid quantities,18012,8,99.96,quantity must be greater than zero
+Invalid discounts,18012,5,99.97,discount must be between 0% and 50%
+Unknown customers,18012,18,99.9,customer_id must exist in customer master
+Unknown products,18012,0,100.0,product_id must exist in product master
